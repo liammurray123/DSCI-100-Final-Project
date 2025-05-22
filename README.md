@@ -1,2 +1,5 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# DSCI 100 Final Project
+Completed by Liam Murray (87357539)
+
+This repository includes:
+- `Explore Datasets.ipynb`, which explores the dataset and answers questions about its structure and contents.
