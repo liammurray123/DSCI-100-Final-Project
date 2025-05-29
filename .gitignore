@@ -130,3 +130,6 @@ dmypy.json
 
 # VSCode info
 .vscode/
+
+# Quarto Stuff
+Explore Datasets_files/
